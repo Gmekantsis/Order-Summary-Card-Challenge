@@ -26,8 +26,8 @@ Challenge was to create pixel-perfect copy of the project from scratch.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://order-summary-card-solution.glitch.me)
-- Live Site URL: [Add live site URL here](https://order-summary-card-solution.glitch.me)
+- Solution URL: [Solution](https://order-summary-card-solution.glitch.me)
+- Live Site URL: [Live site](https://order-summary-card-solution.glitch.me)
 
 ## My process
 
