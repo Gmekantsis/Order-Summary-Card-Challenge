@@ -22,7 +22,7 @@ Challenge was to create pixel-perfect copy of the project from scratch.
 
 ### Screenshot
 
-![](https://cdn.glitch.global/98396ef4-1970-405b-87ae-c3fbaf5a4bc0/order%20summary.png?v=1655733778401)
+![](https://cdn.glitch.global/98396ef4-1970-405b-87ae-c3fbaf5a4bc0/Screenshot%20from%202022-06-23%2013-40-29.png?v=1655977276642)
 
 ### Links
 
